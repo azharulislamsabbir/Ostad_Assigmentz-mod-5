@@ -1,0 +1,7 @@
+1Azharul Islam|azharulisalmsabbir@gmail.com|12345|Admin|
+3|Md. Munaim Khan|raju@gmail.com|12345|Manager|
+4|saju|saju@gamil.com|1234|User|
+5|nazrul |nazrul@gmail.com|1234|User|
+6|kopil|kopil@gmail.com|1234|User|
+7|sabbir|sabbir@gmail.com|1234|User|
+8|Azharul Islam|azharulisalmsabbir@gmail.com|12345|User|
